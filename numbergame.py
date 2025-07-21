@@ -30,7 +30,7 @@ while True:
 
     print("CORRECT!", mynumber, " is my number!")
     print ("you tried ",counter," times!")
-    print("Type 1 to play again, type any other number to exit")
+    print("Type 1 to play again, type any other number to exit from game!")
 
 
     again = int(input("Your choice:"))
