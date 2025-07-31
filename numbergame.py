@@ -6,7 +6,7 @@ while True:
     menu="""
      _____________________________________________
     |                Welcome Player               |
-    |    I choose the number between 1 to 20      |
+    |    Choose the number between 1 to 20        |
     |_____________________________________________|"""
     print(menu)
 
